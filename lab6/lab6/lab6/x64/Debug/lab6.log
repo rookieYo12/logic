@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\университет\3 семестр\логика\logic_rep\logic\lab6\lab6\lab6\main.cpp(520,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\университет\3 семестр\логика\logic_rep\logic\lab6\lab6\lab6\main.cpp(154): warning C4715: shet_po_name: значение возвращается не при всех путях выполнения
+  lab6.vcxproj -> C:\университет\3 семестр\логика\logic_rep\logic\lab6\lab6\x64\Debug\lab6.exe
